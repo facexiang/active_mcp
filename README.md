@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/facexiang-active-mcp-badge.png)](https://mseep.ai/app/facexiang-active-mcp)
+
 # Active MCP 🔌
 
 <div align="center">
